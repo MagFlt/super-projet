@@ -24,7 +24,7 @@ div:nth-child(1) {
 div:nth-child(2) {
   grid-area: v2;
   /* display: flex; */
-  background: purple;
+  background: pink;
   /* align-items: center;
   justify-content: center;
   height: 620px;
