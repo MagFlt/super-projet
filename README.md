@@ -2,4 +2,4 @@
 
 ## projet collaboratif
 
-A faire : Ajouter un fichier '.gitignore' `git status`
+A faire : Ajouter un fichier 'gitignore' 
